@@ -1,8 +1,5 @@
 //Proyecto: Uso de Tablas Hash con resolucion de colisiones con AVL
 //   Curso: Estructura de Datos
-//  Alumno: Josue Moises Guillen Zuñiga
-//  Carnet: 0908-09-4843
-//  Centro: Universidad Mariano Galvez Escuintla
 #include <cstdio>
 #include <cstdlib>
 #include <iostream>
